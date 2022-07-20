@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OpenCV",
-            url: "https://github.com/oneprove/ios-opencv/releases/download/3.4.6/OpenCV.xcframework.zip",
-            checksum: "4f856a4825b0ca5546c7513245b8d5fba0c2642bd2dad68bf8b8ad7f228e6a20"
+            url: "https://github.com/oneprove/ios-opencv/releases/download/4.3.0/OpenCV.xcframework.zip",
+            checksum: "9b4d920ced83f0347cc13006846284f2a4298475899a66e6e9616a8b32e7a7d7"
         ),
     ]
 )
